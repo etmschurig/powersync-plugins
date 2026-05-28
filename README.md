@@ -7,12 +7,6 @@ Ce dépôt regroupe les plugins permettant à ETM PowerSync de communiquer avec 
 bornes de recharge (EVSE), compteurs d'énergie, onduleurs et autres équipements, via Modbus
 (TCP/RTU), MQTT et protocoles propriétaires.
 
-## ⚠️ Héritage de licence
-
-Une partie de ces plugins **dérive du code du projet [evcc](https://github.com/evcc-io/evcc)**,
-distribué sous GPL-3.0. Conformément à cette licence, l'ensemble de ce dépôt est donc
-**nécessairement sous GPL-3.0**. C'est un choix assumé et transparent.
-
 ## Contribuer
 
 Le portage de nouveaux équipements est en cours. Les contributions sont bienvenues :
