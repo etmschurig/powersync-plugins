@@ -21,8 +21,7 @@ La liste de compatibilité à jour (Supporté / Partiel / Roadmap) est publiée 
 
 ## Licence
 
-[GNU General Public License v3.0](LICENSE) — © ETM-Schurig, et contributeurs evcc pour
-le code dérivé.
+[GNU General Public License v3.0](LICENSE) — © ETM-Schurig.
 
 ## Liens
 
